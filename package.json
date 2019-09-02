@@ -22,7 +22,7 @@
 	"types": "src/index.d.ts",
 	"dependencies": {},
 	"devDependencies": {
-		"eslint-config-fnd": "^1.6.0",
+		"eslint-config-fnd": "^1.8.0",
 		"esm": "^3.2.20",
 		"faucet-pipeline-jsx": "~2.0.1",
 		"mocha": "^6.0.2",
